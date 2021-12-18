@@ -1,6 +1,7 @@
 # Classification-Problem-using-Log-Reg-Decision-Tree-Random-Forest
-Dataset link: https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 Created a model for predicting mortality caused by Heart Failure.
+
+Dataset: https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 STEPS:
 1. Import libraries
 2. Import dataset
